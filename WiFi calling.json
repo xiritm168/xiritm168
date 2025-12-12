@@ -1,41 +1,31 @@
 {
   "rules": [
     {
-      "domain_suffix": [
-        "tellapart.com",
-        "twvid.com",
-        "pscp.tv",
-        "twitter.com",
-        "twitter.jp",
-        "twttr.com",
-        "twitteroauth.com",
-        "grok.com",
-        "twitter.biz",
-        "twitterstat.us",
-        "twimg.com",
-        "twttr.net",
-        "tweetdeck.com",
-        "periscope.tv",
-        "x.com",
-        "twimg.co",
-        "t.co",
-        "twimg.org",
-        "vine.co",
-        "twitterinc.com",
-        "twtrdns.net",
-        "cms-twdigitalassets.com",
-        "ads-twitter.com",
-        "twittercommunity.com",
-        "twitpic.com",
-        "twitterflightschool.com"
+      "domain": [
+        "tmdb-image-prod.b-cdn.net",
+        "abematv.akamaized.net",
+        "ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org",
+        "ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org",
+        "epdg.epc.mnc260.mcc310.pub.3gppnetwork.org",
+        "epdg.epc.mnc240.mcc310.pub.3gppnetwork.org",
+        "eas3.msg.t-mobile.com",
+        "t-mobile.com",
+        "eas1.t-mobile.com",
+        "eas2.t-mobile.com",
+        "cs.esimsamsung.com",
+        "crl.t-mobile.com",
+        "mascns.t-mobile.com",
+        "ns.sipgeo.t-mobile.com",
+        "csl.prod.ondemandconnectivity.com",
+        "hhk.prod.ondemandconnectivity.com",
+        "epdg.epc.mnc000.mcc454.pub.3gppnetwork.org",
+        "ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org",
+        "ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org"
       ],
       "ip_cidr": [
-        "69.195.160.0/19",
-        "199.96.56.0/21",
-        "192.133.76.0/22",
-        "202.160.128.0/22",
-        "199.59.148.0/22",
-        "209.237.192.0/19"
+        "66.94.0.0/19",
+        "206.29.177.36/32",
+        "208.54.0.0/16"
       ]
     }
   ],
