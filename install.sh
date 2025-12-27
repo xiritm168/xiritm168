@@ -38,7 +38,7 @@ log_config() {
 # Default values
 service_name="komari-agent"
 target_dir="/opt/komari"
-github_proxy="https://gh-proxy.org"
+github_proxy="https://hk.gh-proxy.org"
 install_version="" # New parameter for specifying version
  
 
