@@ -2,9 +2,9 @@
 # AUTHOR: xiritm168
 # REPO: https://github.com/xiritm168/xiritm168
 # UPDATED: 2025-12-28 20:00:01
-# DOMAIN: 37
-# IP-CIDR: 29
-# TOTAL: 66
+# DOMAIN: 30
+# IP-CIDR: 0
+# TOTAL: 30
 DOMAIN,tmdb-image-prod.b-cdn.net
 DOMAIN,abematv.akamaized.net
 DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
