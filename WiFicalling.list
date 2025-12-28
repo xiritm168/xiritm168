@@ -1,0 +1,37 @@
+# NAME: WiFi calling
+# AUTHOR: xiritm168
+# REPO: https://github.com/xiritm168/xiritm168
+# UPDATED: 2025-12-28 20:00:01
+# DOMAIN: 37
+# IP-CIDR: 29
+# TOTAL: 66
+DOMAIN,tmdb-image-prod.b-cdn.net
+DOMAIN,abematv.akamaized.net
+DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+DOMAIN,eas3.msg.t-mobile.com
+DOMAIN,t-mobile.com
+DOMAIN,eas1.t-mobile.com
+DOMAIN,eas2.t-mobile.com
+DOMAIN,cs.esimsamsung.com
+DOMAIN,crl.t-mobile.com
+DOMAIN,mascns.t-mobile.com
+DOMAIN,ns.sipgeo.t-mobile.com
+DOMAIN,csl.prod.ondemandconnectivity.com
+DOMAIN,hhk.prod.ondemandconnectivity.com
+DOMAIN,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
+DOMAIN,one.dash.cloudflare.com
+DOMAIN,quic.cftunnel.com
+DOMAIN,h2.cftunnel.com
+DOMAIN,*.cftunnel.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,ip.skk.moe
+DOMAIN,aichihuoguo.paoluma.de
+DOMAIN,heizishuohua.paoluma.de
+DOMAIN,akali.paoluma.de
+DOMAIN,xiangshechulai.zhyu.de
+DOMAIN,web.xiritm.com
