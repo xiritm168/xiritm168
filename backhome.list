@@ -1,2 +1,2 @@
 #backhome 回家
-# IP-CIDR,192.168.100.0/24,no-resolve
+IP-CIDR,192.168.100.0/24,no-resolve
