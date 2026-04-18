@@ -1,1 +1,4 @@
-1
+# 自定义代理
+DOMAIN-SUFFIX,redteago.com
+DOMAIN-KEYWORD,redteago
+# IP-CIDR,43.129.254.124/24,no-resolve
