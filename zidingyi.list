@@ -1,4 +1,5 @@
-# 自定义代理
-DOMAIN-SUFFIX,redteago.com
-DOMAIN-KEYWORD,redteago
+# 自定义app
+PROCESS-NAME,com.redpocket
+PROCESS-NAME,com.redteamobile.redteago
+PROCESS-NAME,com.tello.ui
 # IP-CIDR,43.129.254.124/24,no-resolve
