@@ -2,4 +2,5 @@
 PROCESS-NAME,com.redpocket
 PROCESS-NAME,com.redteamobile.redteago
 PROCESS-NAME,com.tello.ui
+PROCESS-NAME,com.paypal.android.p2pmobile
 # IP-CIDR,43.129.254.124/24,no-resolve
