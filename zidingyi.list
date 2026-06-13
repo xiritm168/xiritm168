@@ -3,4 +3,8 @@ PROCESS-NAME,com.redpocket
 PROCESS-NAME,com.redteamobile.redteago
 PROCESS-NAME,com.tello.ui
 PROCESS-NAME,com.paypal.android.p2pmobile
+PROCESS-NAME,com.bitkeep.wallet
+PROCESS-NAME,global.longbridge.app.android
+PROCESS-NAME,com.victoryses.va.securities
+PROCESS-NAME,com.okinc.okex.gp
 # IP-CIDR,43.129.254.124/24,no-resolve
