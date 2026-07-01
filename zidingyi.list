@@ -8,9 +8,9 @@ PROCESS-NAME,global.longbridge.app.android
 PROCESS-NAME,com.victoryses.va.securities
 PROCESS-NAME,com.okinc.okex.gp
 PROCESS-NAME,atws.app
-DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,interactivebrokers.com.au
 DOMAIN-SUFFIX,interactivebrokers.com.sg
+DOMAIN-KEYWORD,interactivebrokers
 # IP-CIDR,43.129.254.124/24,no-resolve
