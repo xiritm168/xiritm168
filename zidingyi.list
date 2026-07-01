@@ -10,6 +10,7 @@ PROCESS-NAME,com.okinc.okex.gp
 PROCESS-NAME,atws.app
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibkr.com.cn
 DOMAIN-KEYWORD,ibkr
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,interactivebrokers.com.au
