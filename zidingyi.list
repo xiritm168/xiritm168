@@ -11,9 +11,7 @@ PROCESS-NAME,atws.app
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,ibkr.com
 DOMAIN-SUFFIX,ibkr.com.cn
-DOMAIN-KEYWORD,ibkr
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,interactivebrokers.com.au
 DOMAIN-SUFFIX,interactivebrokers.com.sg
-DOMAIN-KEYWORD,interactivebrokers
 # IP-CIDR,43.129.254.124/24,no-resolve
